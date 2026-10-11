@@ -1,0 +1,9 @@
+{
+  "name": "Nazir Noori · English Educator",
+  "short_name": "Nazir Noori",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#071a1d",
+  "icons": [{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
